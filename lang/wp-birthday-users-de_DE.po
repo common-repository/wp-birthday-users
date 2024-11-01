@@ -1,0 +1,189 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp birthday users 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/extend/plugins/wp-birthday-users\n"
+"POT-Creation-Date: 2012-06-01 14:43:47+00:00\n"
+"PO-Revision-Date: 2012-06-29 11:27+0100\n"
+"Last-Translator: Omar Reygaert <Omar.Reygaert@gmail.com>\n"
+"Language-Team: Omar Reygaert <Omar.Reygaert@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-birthday-users.php:29
+msgid "Users Birthdays"
+msgstr "Geburtstage"
+
+#: wp-birthday-users.php:31
+msgid "Birthdays Options"
+msgstr "Geburtstage Optionen"
+
+#: wp-birthday-users.php:138
+msgid "y"
+msgstr "j"
+
+#: wp-birthday-users.php:147
+msgid "Birthdays rebuild."
+msgstr "Geburtstage wieder aufzubauen."
+
+#: wp-birthday-users.php:153
+msgid "Birthdays"
+msgstr "Geburtstage"
+
+#: wp-birthday-users.php:153
+msgid "rebuild birthdays"
+msgstr "Wiederaufbau Geburtstage"
+
+#: wp-birthday-users.php:155
+msgid "%1$s</em> of the %2$s registered user filled in there birthday."
+msgstr "%1$s</em> der %2$s registrierte Benutzer dort Geburtstag gefüllt."
+
+#: wp-birthday-users.php:156
+msgid "Average age"
+msgstr "Durchschnittsalter"
+
+#: wp-birthday-users.php:157
+msgid "Oldest user"
+msgstr "ältester Benutzer"
+
+#: wp-birthday-users.php:158
+msgid "Youngest user"
+msgstr "jüngster Benutzer"
+
+#: wp-birthday-users.php:159
+msgid "Birthdays ICAL"
+msgstr "Geburtstage ICAL"
+
+#: wp-birthday-users.php:163
+msgid "Upcoming birthdays"
+msgstr "Die nächsten Geburtstage"
+
+#: wp-birthday-users.php:173
+msgid "Passed birthdays"
+msgstr "Bereits verjährt"
+
+#: wp-birthday-users.php:249
+msgid "Date of birth"
+msgstr "Geburtsdatum"
+
+#: wp-birthday-users.php:253
+msgid "Birthday"
+msgstr "Geburtstag"
+
+#: wp-birthday-users.php:260
+msgid "Share anniversary info"
+msgstr "Anteil Jubiläum info"
+
+#: wp-birthday-users.php:264
+msgid "Share age info"
+msgstr "Informationen zur Aktie Alter"
+
+#: wp-birthday-users.php:265
+msgid "Show your age: %d y, and this only if you share your anniversary info."
+msgstr "Zeigen Sie Ihr Alter: %d j, und dies nur, wenn Sie Ihre Jahrestag info."
+
+#: wp-birthday-users.php:297
+msgid "Options Updated"
+msgstr "Aktualisiert Optionen"
+
+#: wp-birthday-users.php:300
+msgid "No Options Updated/Changed"
+msgstr "Keine Optionen Aktualisiert/Geändert"
+
+#: wp-birthday-users.php:310
+msgid "Birthday Users Options"
+msgstr "Birthday Users Optionen"
+
+#: wp-birthday-users.php:311
+msgid "Default Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: wp-birthday-users.php:323
+msgid "Use the users display name"
+msgstr "Verwenden Sie den Benutzer Namen"
+
+#: wp-birthday-users.php:327
+msgid "The system will use the Display name selected by the user."
+msgstr "Das System verwendet angezeigten Namen durch den Benutzer ausgewählt."
+
+#: wp-birthday-users.php:314
+msgid "Display name in ICAL:"
+msgstr "Anzeigenamen in iCal:"
+
+#: wp-birthday-users.php:324
+msgid "Choose which name will be used for the description in the ical-file"
+msgstr "Wählen Sie, welche Namen für die Beschreibung wird in der iCal-Datei verwendet werden"
+
+#: wp-birthday-users.php:328
+msgid "Select the group that can see the birthday page overview:"
+msgstr "Wählen Sie die Gruppe, die den Geburtstag Überblick Seite sehen können:"
+
+#: wp-birthday-users.php:331
+msgid "This will show the link: "
+msgstr "Dadurch wird der Link:"
+
+#: wp-birthday-users.php:332
+msgid "Ages will only be visible if the user choosed to share it or if you are administrator"
+msgstr "Das Alter ist nur sichtbar, wenn der Benutzer teilt diese Informationen oder wenn Sie ein Administrator sind"
+
+#: functions.php:53
+msgid "Birthday of "
+msgstr "Geburtstag von "
+
+#: functions.php:53
+msgid " born on "
+msgstr " geboren am "
+
+#: functions.php:60
+msgid "Birthday "
+msgstr "Geburtstag"
+
+#: widget.php:7
+msgid "Display a list of birthdays"
+msgstr "Zeigt eine Liste der Geburtstage"
+
+#: widget.php:36
+msgid "Sort by month"
+msgstr "Sortieren nach Monat"
+
+#: widget.php:40
+msgid "Show upcoming birthdays"
+msgstr "Zeigen Sie nächsten Geburtstage"
+
+#: widget.php:44
+msgid "How many upcoming birthdays"
+msgstr "Wie viele nächsten Geburtstage"
+
+#: widget.php:48
+msgid "Show past birthdays"
+msgstr "Zeige Bereits verjährt"
+
+#: widget.php:52
+msgid "How many past birthdays"
+msgstr "Wie viele Bereits verjährt"
+
+#: widget.php:56
+msgid "Hide widget if no birthdays today"
+msgstr "Widget ausblenden, wenn keine verjährt heute"
+
+#: widget.php:62
+msgid "Show ical download link"
+msgstr "Zeige iCal Download-Link"
+
+#: widget.php:94
+msgid "Download Birthday calendar"
+msgstr "Download Geburtstagskalender"
+
+#: widget.php:101
+msgid "Today"
+msgstr "heute"
+
+#: widget.php:62
+msgid "No birthdays today"
+msgstr "Keine Geburtstage heute"
+
